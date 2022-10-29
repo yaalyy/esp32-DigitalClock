@@ -1,4 +1,4 @@
-#esp32DigitalClock
+# esp32DigitalClock
 
 This is just a course work for using ESP32.
 ## Instruction

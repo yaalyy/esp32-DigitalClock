@@ -3,7 +3,7 @@
 #include<WiFi.h>
 #include "time.h"
 
-const char* essid = "xxxxxxx";   #here set the ssid and password
+const char* essid = "xxxxxxx";   //here set the ssid and password
 const char* password = "xxxxxx";
 
 const char* ntpServer = "pool.ntp.org";
